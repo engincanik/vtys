@@ -1,0 +1,89 @@
+-Q1A Çıktısı-
+
+"John"	"Smith"	"731 Fortren Houston, TX"
+"Franklin"	"Wong"	"638 Voss Houston, TX"
+"Joyce"	"English"	"5631 Rice, Houston, TX"
+"Ramesh"	"Narayan"	"957 Fire Oak, Humble, TX"
+
+-Q8B Çıktısı-
+
+"Smith"	"Wong"
+"Wong"	"Borg"
+"English"	"Wong"
+"Narayan"	NULL
+"Borg"		NULL
+"Wallace"	"Borg"
+"Jabbar"	"Wallace"
+"Zelaya"	"Wallace"
+
+-Q2A Çıktısı-
+
+0 dizi geri döndürüldü
+
+-Q8C Çıktısı-
+
+"English"	"Wong"
+"Smith"	"Wong"
+"Wallace"	"Borg"
+"Wong"	"Borg"
+"Jabbar"	"Wallace"
+"Zelaya"	"Wallace"
+
+-Q19 Çıktısı-
+
+"281000"	"55000"	"25000"	"35125.0"
+
+-Q20 Çıktısı-
+
+"133000"	"40000"	"25000"	"33250.0"
+
+-Q21 Çıktısı-
+
+8
+
+-Q22 Çıktısı-
+
+4
+
+-Q23 Çıktısı-
+
+6
+
+-Q5 Çıktısı-
+
+"Smith"	"John"
+"Wong"	"Franklin"
+
+-Q24 Çıktısı-
+
+"1"	"1"	"55000.0"
+"4"	"3"	"31000.0"
+"5"	"4"	"33250.0"
+
+-Q25 Çıktısı-
+
+"1"	"ProductX"	"2"
+"2"	"ProductY"	"3"
+"3"	"ProductZ"	"2"
+"10"	"Computerization"	"3"
+"20"	"Reorganization"	"3"
+"30"	"Newbenefits"	"3"
+
+-Q26 Çıktısı-
+
+"2"	 "ProductY"	        "3"
+"10" "Computerization"	"3"
+"20" "Reorganization"	"3"
+"30" "Newbenefits"	    "3"
+
+-Q27 Çıktısı-
+
+"1"	"ProductX"	"2"
+"2"	"ProductY"	"3"
+"3"	"ProductZ"	"2"
+"10"	"Computerization"	"1"
+"20"	"Reorganization"	"1"
+
+-Q28 Çıktısı-
+
+NULL "0"
